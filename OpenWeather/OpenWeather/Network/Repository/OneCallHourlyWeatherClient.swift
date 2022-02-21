@@ -27,7 +27,7 @@ struct OneCallHourlyWeatherClient: OneCallHourlyWeatherClientType {
                           "lon": "\(lon)",
                           "exclude": "minutely,current,daily,alerts",
                           "units": "metric",
-                          "appid": "c4f138942894e83678fcb5c14579091f"]
+                          "appid": "API KEY"]
         return httpClient
             .requestObject(from: base,using: api)
             .eraseToAnyPublisher()

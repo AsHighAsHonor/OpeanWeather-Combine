@@ -1,4 +1,6 @@
-# Transurban - Coding Challenge
+# Coding Challenge
+
+`NOTE: To run this project, please replace a valid [OpeanWeather API KEY](https://home.openweathermap.org/api_keys) in the class "OneCallHourlyWeatherClient"`
 
 This coding challenge is to gague your knowledge of Swift, Combine and MVVM. For the best result complete the challenge with the assumption that it will be production ready.
 
